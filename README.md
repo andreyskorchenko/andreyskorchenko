@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/-andreyskorchenko@gmail.com-FF2400?style=flat&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="skype:andreyskorchenko?chat">
+  <a href="mailto:andreyskorchenko">
     <img src="https://img.shields.io/badge/-andreyskorchenko-00AEEF?style=flat&logo=skype&logoColor=white" />
   </a>
 </div>
