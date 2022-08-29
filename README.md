@@ -46,7 +46,7 @@
 #### 🤝🏻 Connect with Me
 
 <div align="center">
-  <a href="https://t.me/andreyskorchenko">
+  <a href="https://t.me/andreyskorchenko" target="_blank">
     <img src="https://img.shields.io/badge/-andreyskorchenko-28A7E8?style=flat&logo=telegram&logoColor=white" />
   </a>
   
@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/-andreyskorchenko@gmail.com-FF2400?style=flat&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="andreyskorchenko">
+  <a href="skype:andreyskorchenko">
     <img src="https://img.shields.io/badge/-andreyskorchenko-00AEEF?style=flat&logo=skype&logoColor=white" />
   </a>
 </div>
