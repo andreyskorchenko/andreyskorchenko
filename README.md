@@ -46,7 +46,7 @@
 #### 🤝🏻 Connect with Me
 
 <div align="center">
-  <a href="https://t.me/andreyskorchenko" target="_blank">
+  <a href="https://t.me/andreyskorchenko">
     <img src="https://img.shields.io/badge/-andreyskorchenko-28A7E8?style=flat&logo=telegram&logoColor=white" />
   </a>
   
