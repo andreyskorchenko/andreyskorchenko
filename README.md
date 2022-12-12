@@ -1,8 +1,7 @@
 #### 🧑🏻‍💻 About Me
 
 <div align="center">
-  My love for web development started in 2014. During this time, I overcame a rather thorny path.<br>
-  Over the years, my love has only grown stronger, so this is definitely mine and I'm here for a long time.
+  Passionate about building interactive web apps with Vue/React stack
 </div>
 
 ---
