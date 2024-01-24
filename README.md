@@ -30,20 +30,6 @@
 
 ---
 
-#### ⚙️ My Stats
-
-<div align="center">
-  <a href="https://github.com/andreyskorchenko">
-    <img src="https://github-readme-stats.vercel.app/api?username=andreyskorchenko&theme=github_dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" width="45%"
-    />
-  </a>
-  <a href="https://github.com/andreyskorchenko">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreyskorchenko&theme=github_dark&hide_border=true&layout=compact" width="45%" />
-  </a>
-</div>
-
----
-
 #### 🤝🏻 Connect with Me
 
 <div align="center">
