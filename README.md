@@ -44,5 +44,3 @@
     <img src="https://img.shields.io/badge/-andreyskorchenko@gmail.com-FF2400?style=flat&logo=gmail&logoColor=white" />
   </a>
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=andreyskorchenko&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
