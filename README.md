@@ -1,7 +1,7 @@
 #### 🧑🏻‍💻 About Me
 
 <div>
-  Passionate about building interactive web apps with Vue/React stack
+  Passionate about building interactive web apps with React/Next/Nest stack
 </div>
 
 ---
