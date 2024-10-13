@@ -13,6 +13,7 @@
 ![Scss](https://img.shields.io/badge/-Scss-05122A?style=flat&logo=sass)
 ![Less](https://img.shields.io/badge/-Less-05122A?style=flat&logo=less)
 ![Bem](https://img.shields.io/badge/-Bem-05122A?style=flat&logo=bem)
+![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)
@@ -25,11 +26,10 @@
 ![Fastify](https://img.shields.io/badge/-Fastify-05122A?style=flat&logo=fastify)
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-![Webpack](https://img.shields.io/badge/-Webpack-05122A?style=flat&logo=webpack)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 
 ---
