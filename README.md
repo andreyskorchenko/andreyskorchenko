@@ -32,5 +32,5 @@ Passionate about building interactive web apps with React/Next/Nest stack
 ---
 
 #### 🤝🏻 Connect with Me
-<a href="https://t.me/andreyskorchenko"><img src="https://img.shields.io/badge/-andreyskorchenko-0E1117?style=for-the-badge&logo=telegram"/></a>
-<a href="mailto:andreyskorchenko@gmail.com"><img src="https://img.shields.io/badge/-andreyskorchenko@gmail.com-0E1117?style=for-the-badge&logo=gmail"/></a>
+<a href="https://t.me/andreyskorchenko" target="_blank"><img src="https://img.shields.io/badge/-andreyskorchenko-0E1117?style=for-the-badge&logo=telegram"/></a>
+<a href="mailto:andreyskorchenko@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-andreyskorchenko@gmail.com-0E1117?style=for-the-badge&logo=gmail"/></a>
