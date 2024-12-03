@@ -5,7 +5,7 @@ Passionate about building interactive web apps with React/Next/Nest stack
 
 #### 🛠 Tech stack
 
-![Html5](https://img.shields.io/badge/-Html5-05122A?style=for-the-badge&logo=html5&color=0E1117)
+![Html5](https://img.shields.io/badge/-Html5-05122A?style=for-the-badge&logo=html5)
 ![Css3](https://img.shields.io/badge/-Css3-05122A?style=for-the-badge&logo=css3&logoColor=1572B6&color=0E1117)
 ![Scss](https://img.shields.io/badge/-Scss-05122A?style=for-the-badge&logo=sass&color=0E1117)
 ![Less](https://img.shields.io/badge/-Less-05122A?style=for-the-badge&logo=less&color=0E1117)
